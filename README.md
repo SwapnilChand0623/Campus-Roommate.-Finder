@@ -47,6 +47,14 @@ A mobile app built with **Flutter**, **Riverpod**, and **Supabase** to help univ
 - `flutter_local_notifications` – local notifications
 - `cached_network_image`, `image_picker` – media handling
 
+**Screenshots**
+<img width="272" height="605" alt="image" src="https://github.com/user-attachments/assets/90d3d2cd-3acf-4050-94b4-b24d37e8774d" />
+<img width="272" height="600" alt="image" src="https://github.com/user-attachments/assets/5771399a-670e-4671-8f76-9fe0ba85cff8" />
+<img width="272" height="601" alt="image" src="https://github.com/user-attachments/assets/7274a06f-aaae-4c21-92f8-5cb0532e74b5" />
+<img width="271" height="605" alt="image" src="https://github.com/user-attachments/assets/54fb7554-2431-4c33-9170-86bc27187104" />
+<img width="273" height="601" alt="image" src="https://github.com/user-attachments/assets/dec1d294-05fa-45e1-bfce-f5ef46cd2699" />
+
+
 ---
 
 ## 🚀 Getting Started
