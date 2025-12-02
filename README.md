@@ -174,7 +174,7 @@ If making the project public, ensure:
 
 ## 📝 License
 
-Specify your license of choice here (e.g. MIT, Apache-2.0, or "All rights reserved").
+Free to use for everyone :)
 
 ---
 
